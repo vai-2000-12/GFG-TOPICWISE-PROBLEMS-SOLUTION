@@ -1,4 +1,4 @@
-
+// This is Based on 0 based Indexing .....
 class pair{
     
     int x;
