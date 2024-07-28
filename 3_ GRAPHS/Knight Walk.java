@@ -1,4 +1,6 @@
 // This is Based on 0 based Indexing .....
+import java.util.*;
+
 class pair{
     
     int x;
