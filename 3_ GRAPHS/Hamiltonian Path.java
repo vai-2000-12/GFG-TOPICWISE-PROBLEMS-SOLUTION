@@ -50,3 +50,8 @@ class Solution {
         return false;
     }
 }
+// The `Hamiltonian Cycle` problem is checking whether a given graph contains a Hamiltonian cycle. A
+// Hamiltonian cycle is a cycle that visits every vertex exactly once in a graph. The `check` method
+// in the code is attempting to find a Hamiltonian path in the graph by recursively exploring all
+// possible paths starting from each vertex. If a path is found that visits all vertices exactly once
+// and returns to the starting vertex, then a Hamiltonian cycle exists in the graph.
