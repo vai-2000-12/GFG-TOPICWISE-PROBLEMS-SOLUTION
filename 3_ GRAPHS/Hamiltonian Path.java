@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     boolean check(int N, int M, ArrayList<ArrayList<Integer>> Edges) {
         ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
