@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public String[] wordBoggle(char board[][], String[] dictionary) {
         List<String> foundWords = new ArrayList<>();
