@@ -41,4 +41,4 @@ class Solution
         return 1 + right + left + down + up + upRight + upLeft + downRight + downLeft;
         
     }
-}
+}    
