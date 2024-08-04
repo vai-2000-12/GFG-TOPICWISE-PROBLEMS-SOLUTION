@@ -17,8 +17,8 @@ class Solution {
             int u = prerequisites[i][0];
             int v = prerequisites[i][1];
             
-            graph.get(u).add(v);
-            indegree[i]++;
+            graph.get(v).add(u);
+            indegree[u]++;
        }
 
        Queue<Integer> q = new LinkedList<>();
