@@ -1,12 +1,12 @@
 class MyStack {
-    // class StackNode {
-    //     int data;
-    //     StackNode next;
-    //     StackNode(int a) {
-    //         data = a;
-    //         next = null;
-    //     }
-    // }
+    class StackNode {
+        int data;
+        StackNode next;
+        StackNode(int a) {
+            data = a;
+            next = null;
+        }
+    }
     StackNode top;
 
     // Function to push an integer into the stack.
