@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution{
     static List<Integer> leftSmaller(int n, int a[])
     {
