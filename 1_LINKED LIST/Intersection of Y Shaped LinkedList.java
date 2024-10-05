@@ -1,3 +1,13 @@
+class Node {
+    int data;
+     Node next;
+     Node(int d)  { data = d;  next = null; }
+ }
+ class LinkedList
+ {
+     Node head;  // head of list
+ }
+ 
 class Intersect {
     
     int intersectPoint(Node head1, Node head2) {
