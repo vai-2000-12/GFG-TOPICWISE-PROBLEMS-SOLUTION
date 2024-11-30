@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class solution {
     public void solve(int [] arr , int n , int indx , ArrayList<Integer> curr, ArrayList<ArrayList<Integer>> res){
         res.add(new ArrayList<>(curr));
         
