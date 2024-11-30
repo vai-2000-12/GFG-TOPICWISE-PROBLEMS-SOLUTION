@@ -17,9 +17,7 @@ class solve {
             // Backtrack
             curr.remove(curr.size() - 1);
         }
-
     }
-
     public static ArrayList<ArrayList<Integer>> AllSubsets(int arr[], int n) {
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
         ArrayList<Integer> curr = new ArrayList<>();
