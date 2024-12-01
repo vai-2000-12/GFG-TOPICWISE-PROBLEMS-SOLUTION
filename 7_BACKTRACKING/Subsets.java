@@ -20,6 +20,7 @@ class solution {
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
         ArrayList<Integer> curr = new ArrayList<>();
         int n = arr.length;
+        Arrays.sort(arr);
         solve(arr , n , 0 , curr , res);
         return res;
     }
