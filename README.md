@@ -1,4 +1,62 @@
-# MY  TOPICWISE DSA PROBLEMS-SOLUTION
-![img2](https://github.com/user-attachments/assets/c273e5b8-8303-4a05-a5ea-1115c0be6f83)
+# 📚 GeeksforGeeks DSA Topicwise Question Solutions
 
-![DSA-For-Beginners](https://github.com/user-attachments/assets/f90c2873-1f17-4051-ba5d-09a0584f0e5f)
+## 📌 Introduction
+This repository contains solutions to various Data Structures and Algorithms (DSA) problems categorized by topics as per GeeksforGeeks (GFG). The solutions are implemented in **Java** and are optimized for better performance and readability.
+
+## 📌 Topics Covered
+
+- 🔹 **Arrays**
+- 🔹 **Strings**
+- 🔹 **Linked Lists**
+- 🔹 **Stacks & Queues**
+- 🔹 **Recursion & Backtracking**
+- 🔹 **Dynamic Programming**
+- 🔹 **Greedy Algorithms**
+- 🔹 **Graphs**
+- 🔹 **Trees & Binary Trees**
+- 🔹 **Heap & Priority Queue**
+- 🔹 **Trie & Hashing**
+- 🔹 **Bit Manipulation**
+- 🔹 **Segment Trees**
+
+## 📌 Folder Structure
+```
+GFG-DSA-Solutions/
+│── Arrays/
+│── Strings/
+│── LinkedLists/
+│── StacksQueues/
+│── RecursionBacktracking/
+│── DynamicProgramming/
+│── Graphs/
+│── Trees/
+│── Heap/
+│── Trie/
+│── BitManipulation/
+│── SegmentTrees/
+│── README.md
+```
+
+## 📌 How to Use
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/GFG-DSA-Solutions.git
+   ```
+2. Navigate to a topic folder and open the Java files for solutions.
+3. Run the Java program:
+   ```sh
+   javac Solution.java
+   java Solution
+   ```
+
+## 📌 Contribution
+Feel free to contribute by adding new solutions or optimizing existing ones! Follow these steps:
+1. Fork the repository.
+2. Create a new branch.
+3. Add/update solutions.
+4. Create a pull request.
+
+## 📌 References
+- [GeeksforGeeks DSA Practice](https://www.geeksforgeeks.org/)
+
+🚀 **Happy Coding!**
